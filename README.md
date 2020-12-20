@@ -1,5 +1,5 @@
-# Author: Ruifan Wang and Mavin Buranasilp
-# 2020 August - December 
+### Author: Ruifan Wang and Mavin Buranasilp
+### 2020 August - December 
 
 This is a semester-long project about operating system. This project covers a variety of topics in OS including persistance, concurrency, virtualization, resource management and security. 
 
